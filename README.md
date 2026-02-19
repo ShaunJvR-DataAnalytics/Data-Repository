@@ -14,7 +14,7 @@ Built a scalable financial reporting model including revenue, gross profit, and 
 - Star schema data model
 - Advanced DAX measures
 - Financial KPI tracking
-- Executive-level dashboard design
+- Executive-level dashboard design where i have worked with custom structures and advanced SQL to get data in the correct form.
 
 ---
 
