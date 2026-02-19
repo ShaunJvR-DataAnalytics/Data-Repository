@@ -40,10 +40,7 @@ Demonstrates data cleaning, aggregation, and transformation logic used to prepar
 
 **Tools:** Python (Pandas, NumPy, Matplotlib)  
 **Description:**  
-Exploratory data analysis and statistical modelling on structured datasets. *(Add your Python notebooks here if available)*
-
-**Files:**  
-- `placeholder.ipynb` – Example notebook
+Completed during university coursework. The project involved exploratory data analysis and statistical modelling on structured datasets, including data cleaning, descriptive statistics, and visualizations. Original scripts are not available.
 
 ---
 
@@ -51,7 +48,4 @@ Exploratory data analysis and statistical modelling on structured datasets. *(Ad
 
 **Tools:** R  
 **Description:**  
-Regression modelling and statistical testing projects completed during academic research. *(Add your R scripts/notebooks here if available)*
-
-**Files:**  
-- `placeholder.R` – Example script
+Completed during university coursework. The work included regression modelling, hypothesis testing, ANOVA, and model validation, as well as data visualization using ggplot2. Additionally, I completed my honours project in R focusing on ANCOVA. Original scripts are not available.
