@@ -6,8 +6,8 @@ Welcome to my data portfolio. This repository showcases selected projects involv
 
 ## 📄 Recommendations
 
-[![Recommendation from Kerv](./recommendation-preview.png)](./shaun_kerv_recommendation.pdf)  
-[![Recommendation from Taigan](./recommendation-preview.png)](./Taigan_Recommendation.pdf)
+- [Recommendation from Kerv](./shaun_kerv_recommendation.pdf)  
+- [Recommendation from Taigan](./Taigan_Recommendation.pdf)
 
 
 ## 🔹 Financial Reporting Model (Power BI)
