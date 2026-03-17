@@ -4,6 +4,11 @@ Welcome to my data portfolio. This repository showcases selected projects involv
 
 ---
 
+## 📄 Recommendation
+
+You can view my professional recommendations here:  
+[Download Recommendation](./shaun_kerv_recommendation.pdf)
+
 ## 🔹 Financial Reporting Model (Power BI)
 
 **Tools:** SQL, Power BI, DAX  
