@@ -6,7 +6,7 @@ Welcome to my data portfolio. This repository showcases selected projects involv
 
 ## 📄 Recommendation
 
-<iframe src="./shaun_kerv_recommendation.pdf" width="100%" height="600px"></iframe>
+[![Recommendation Preview](./recommendation-preview.png)](./shaun_kerv_recommendation.pdf)
 
 ## 🔹 Financial Reporting Model (Power BI)
 
