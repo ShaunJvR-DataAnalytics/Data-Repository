@@ -25,7 +25,8 @@ Built a scalable financial reporting model including revenue, gross profit, and 
 
 - ![Power BI dashboard example 1](Powerbi%20dashboard%20example%201.png)  
 - ![Power BI dashboard example 2](Powerbi%20dashboard%20example%202.png)  
-- ![Power BI dashboard example 3](Powerbi%20dashboard%20example%203.png)  
+- ![Power BI dashboard example 3](Powerbi%20dashboard%20example%203.png)
+- ![Power BI dashboard example 4](Powerbi%20dashboard%20example%204.png)  
 
 ---
 
