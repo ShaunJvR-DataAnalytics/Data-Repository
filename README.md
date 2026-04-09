@@ -70,7 +70,7 @@ A Python-based command-line game inspired by social comparison games.
 - The user is shown two entities (e.g., celebrities, brands)  
 - They must guess which has a higher social media following  
 - The game continues with new comparisons for each correct answer  
-- The game ends when the user makes an incorrect guess  
+- The game ends when the user makes an incorrect guess and will output the users final score
 
 **Key Concepts Used:**
 - Python control flow (`if/else`, loops)  
