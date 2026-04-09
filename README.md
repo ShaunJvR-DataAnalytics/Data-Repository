@@ -43,11 +43,43 @@ Demonstrates data cleaning, aggregation, and transformation logic used to prepar
 
 ---
 
-## 🔹 Python Data Analysis Project
+## 🔹 Python Data Analysis & Projects Portfolio
 
-**Tools:** Python (Pandas, NumPy, Matplotlib)  
+### 🎓 Academic Experience  
+During my university studies, I completed coursework focused on data analysis and statistical modelling using Python.
+
+**Key areas covered:**
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Descriptive statistics and basic modelling  
+- Data visualization using Pandas, NumPy, and Matplotlib  
+
+---
+
+### 📚 Continued Learning (Udemy & Self-Study)  
+To further develop my programming skills, I completed online courses and built practical projects, focusing on writing clean, functional Python code and improving problem-solving ability.
+
+---
+
+### 🚀 Projects
+
+#### 🎮 Project 1: Higher or Lower Game  
+A Python-based command-line game inspired by social comparison games.
+
 **Description:**  
-Completed during university coursework. The project involved exploratory data analysis and statistical modelling on structured datasets, including data cleaning, descriptive statistics, and visualizations. Original scripts are not available.
+- The user is shown two entities (e.g., celebrities, brands)  
+- They must guess which has a higher social media following  
+- The game continues with new comparisons for each correct answer  
+- The game ends when the user makes an incorrect guess  
+
+**Key Concepts Used:**
+- Python control flow (`if/else`, loops)  
+- Randomization using the built-in `random` module  
+- Working with dictionaries and lists  
+- User input handling  
+
+**Preview:**  
+![Higher or Lower Game Preview](images/game.png)
 
 ---
 
