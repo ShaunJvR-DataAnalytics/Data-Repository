@@ -76,7 +76,8 @@ A Python-based command-line game inspired by social comparison games.
 - Python control flow (`if/else`, loops)  
 - Randomization using the built-in `random` module  
 - Working with dictionaries and lists  
-- User input handling  
+- User input handling
+- [Higher or Lower Game Code.txt](Higher%20or%20Lower%20Game%20Code.txt) – Code used to create Higher or Lower Game.
 
 **Preview:**  
 ![Higher or Lower Game Preview](Higher%20or%20Lower%20Game%20Preview.png)
