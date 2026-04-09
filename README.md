@@ -79,7 +79,8 @@ A Python-based command-line game inspired by social comparison games.
 - User input handling  
 
 **Preview:**  
-![Higher or Lower Game Preview](images/game.png)
+![Higher or Lower Game Preview](Higher%20or%20Lower%20Game%20Preview.png)
+
 
 ---
 
