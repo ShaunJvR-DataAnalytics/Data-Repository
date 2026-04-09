@@ -82,7 +82,29 @@ A Python-based command-line game inspired by social comparison games.
 **Preview:**  
 ![Higher or Lower Game Preview](Higher%20or%20Lower%20Game%20Preview.png)
 
+---
+#### ☕ Project 2: Coffee Machine Simulator  
+A Python-based command-line program that simulates a coffee vending machine.
 
+**Description:**  
+- The user can order drinks: espresso, latte, or cappuccino  
+- The machine checks if there are enough ingredients (water, milk, coffee)  
+- The user inserts coins to pay for the drink  
+- The machine calculates if the payment is sufficient, gives change, and updates total profit  
+- Users can type `"report"` to see remaining ingredients and total money earned  
+- The program continues until the user turns the machine off  
+
+**Key Concepts Used:**  
+- Python control flow (`if/else`, loops)  
+- Working with dictionaries for menu and resources  
+- Functions to improve the program (`is_resource_sufficient`, `process_coins`, `is_transaction_successful`, `make_coffee`)  
+- User input handling  
+- Arithmetic operations for payments and change calculation  
+- Global variables (`profit`)  
+- [Coffee Vending Machine Code.txt](Coffee%20Vending%20Machine%20Code.txt) – Code used to create the Coffee Machine Simulator  
+
+**Preview:**  
+![Coffee Vending Machine Preview](Coffee%20Vending%20Machine%20Preview.png)
 ---
 
 ## 🔹 R Statistical Modelling
