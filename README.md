@@ -105,6 +105,7 @@ A Python-based command-line program that simulates a coffee vending machine.
 
 **Preview:**  
 ![Coffee Vending Machine Preview](Coffee%20Vending%20Machine%20Preview.png)
+
 ---
 
 ## 🔹 R Statistical Modelling
