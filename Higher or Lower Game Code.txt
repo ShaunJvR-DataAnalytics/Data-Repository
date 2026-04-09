@@ -1,0 +1,57 @@
+import art
+import game_data
+import random
+
+print(art.logo)
+
+continue_game = True
+score = 0
+
+while continue_game:
+    compare1 = random.choice(game_data.data)
+    compare1name = compare1['name']
+    compare1follower_count = int(compare1['follower_count'])
+    compare1description = compare1['description']
+    compare1country = compare1['country']
+
+    compare2 = random.choice(game_data.data)
+    compare2name = compare2['name']
+    compare2follower_count = int(compare2['follower_count'])
+    compare2description = compare2['description']
+    compare2country = compare2['country']
+
+    print(f"{compare1name}: a {compare1description} from {compare1country} ")
+    print(art.vs)
+    print(f"{compare2name}: a {compare2description} from {compare2country} ")
+
+    user_answer = input(f"Decide if {compare1name} has a higher or lower following than {compare2name}. Type 'higher' or 'lower': ").lower()
+
+    if user_answer == 'higher' and compare1follower_count > compare2follower_count:
+        score += 1
+        print("\n" * 20)
+        print(art.logo)
+        print(f"That is Correct! Current score: {score}")
+        print(f"{compare1name} has {compare1follower_count} million followers, whereas {compare2name} has {compare2follower_count} million followers.")
+
+
+        print("Now compare...\n")
+
+    elif user_answer == 'lower' and compare1follower_count < compare2follower_count:
+        score += 1
+        print("\n" * 20)
+        print(art.logo)
+        print(f"That is Correct! Current score: {score}")
+        print(
+            f"{compare1name} has {compare1follower_count} million followers, whereas {compare2name} has {compare2follower_count} million followers.")
+
+        print("Now compare...\n")
+
+    else:
+        continue_game = False
+        print("That is not Correct!")
+        print(f"{compare1name} has {compare1follower_count} million followers, whereas {compare2name} has {compare2follower_count} million followers.")
+        print(f"You Lose! Final score: {score}")
+
+
+
+
