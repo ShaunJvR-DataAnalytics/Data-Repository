@@ -112,7 +112,7 @@ A Python-based command-line program that simulates a coffee vending machine.
 
 A Python-based arcade-style game built using the Turtle graphics library.
 
-## Description:
+**Description:**
 
 - The player controls a turtle that must cross the road safely
 - Cars randomly spawn and move across the screen
@@ -120,7 +120,7 @@ A Python-based arcade-style game built using the Turtle graphics library.
 - The game ends if the turtle collides with a car
 - Difficulty increases as the level goes up
 
-## Key Concepts Used:
+**Key Concepts Used:**
 
 - Object-Oriented Programming (OOP) with multiple classes
 - Python control flow (if/else, loops)
@@ -130,16 +130,16 @@ A Python-based arcade-style game built using the Turtle graphics library.
 - Modular programming using multiple Python files (main.py, player.py, car_manager.py, scoreboard.py)
 - Inheritance using turtle.Turtle
 
-## Files Included and Preview:
+**Files Included and Preview:**
 
 - **main.py** – Main game loop and controls - ![main_turtle](main_turtle.py)
 - **player.py** – Player movement logic - ![player_turtle](player_turtle.py)
 - **car_manager.py** – Car spawning and movement system - ![car_manager_turtle](car_manager_turtle.py)
 - **scoreboard.py** – Level tracking and game over display - ![scoreboard_turtle](scoreboard_turtle.py)
 
-## Gameplay Video:
+**Gameplay Video:**
 
-<video src="https://github.com/ShaunJvR-DataAnalytics/Data-Repository/raw/main/Turtle%20Game.mp4" controls width="100%"></video>
+[🎥 Watch the Gameplay Video](https://github.com/ShaunJvR-DataAnalytics/Data-Repository/raw/main/Turtle%20Game.mp4)
 
 ---
 ## 🔹 R Statistical Modelling
