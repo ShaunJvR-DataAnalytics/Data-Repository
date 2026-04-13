@@ -108,7 +108,7 @@ A Python-based command-line program that simulates a coffee vending machine.
 
 ---
 
-# 🐢 Project 3: Turtle Game
+#### 🐢 Project 3: Turtle Game
 
 A Python-based arcade-style game built using the Turtle graphics library.
 
