@@ -139,7 +139,7 @@ A Python-based arcade-style game built using the Turtle graphics library.
 
 ## Gameplay Video:
 
-[Watch Gameplay Video](Turtle Game.mp4)
+<video src="https://github.com/ShaunJvR-DataAnalytics/Data-Repository/raw/main/Turtle%20Game.mp4" controls width="100%"></video>
 
 ---
 ## 🔹 R Statistical Modelling
