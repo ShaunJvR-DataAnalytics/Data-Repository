@@ -142,6 +142,46 @@ A Python-based arcade-style game built using the Turtle graphics library.
 [🎥 Watch the Gameplay Video](https://github.com/ShaunJvR-DataAnalytics/Data-Repository/raw/main/Turtle%20Game.mp4)
 
 ---
+
+#### 🔒 Project 4: Password Manager
+
+A Python-based Password Manager built using Tkinter GUI, with password generation, clipboard support, and local data storage.
+
+**Description:**
+
+- This project is a simple but powerful Password Manager application that helps users generate and store secure passwords for different websites.
+- Users can enter a website, email/username, and generate a strong random password. The app can also copy the password to the clipboard and save all details locally in a text file for later use.
+
+**Key Features:**
+
+- Secure random password generator (letters, numbers, symbols)
+- One-click copy password to clipboard using pyperclip
+- Save login credentials to a local file (password.txt)
+- Input validation with error popups using messagebox
+- Confirmation dialog before saving data
+- Auto-clears fields after saving
+- Clean and simple graphical user interface using Tkinter
+
+**Key Concepts Used:**
+- Tkinter GUI development (Label, Entry, Button, Canvas)
+- Event handling with button commands
+- Functions and modular code structure
+- Random module for password generation
+- List comprehensions for building password components
+- File handling (open, append mode)
+- Exception-free user validation logic
+- Clipboard automation using pyperclip
+- Dialog boxes using tkinter.messagebox
+
+**Files Included and Preview:**
+
+- **main.py** – Main application logic and UI setup - ![Password Manager Code](PasswordManagerCode.py)
+
+**Gameplay Video:**
+
+[🎥 Watch the Gameplay Video](https://github.com/ShaunJvR-DataAnalytics/Data-Repository/blob/main/Password%20Manager.mp4)
+
+---
 ## 🔹 R Statistical Modelling
 
 **Tools:** R  
