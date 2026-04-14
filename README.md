@@ -181,6 +181,7 @@ A Python-based Password Manager built using Tkinter GUI, with password generatio
 
 [🎥 Watch the Gameplay Video](https://github.com/ShaunJvR-DataAnalytics/Data-Repository/blob/main/Password%20Manager.mp4)
 
+
 ---
 ## 🔹 R Statistical Modelling
 
