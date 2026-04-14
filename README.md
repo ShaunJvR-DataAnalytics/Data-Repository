@@ -177,9 +177,9 @@ A Python-based Password Manager built using Tkinter GUI, with password generatio
 
 - **main.py** – Main application logic and UI setup - ![Password Manager Code](PasswordManagerCode.py)
 
-**Gameplay Video:**
+**Password Manager Preview:**
 
-[🎥 Watch the Gameplay Video](https://github.com/ShaunJvR-DataAnalytics/Data-Repository/blob/main/Password%20Manager.mp4)
+![PasswordManager](PasswordManager.png) 
 
 
 ---
