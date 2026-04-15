@@ -145,33 +145,73 @@ A Python-based arcade-style game built using the Turtle graphics library.
 
 #### 🔒 Project 4: Password Manager
 
-A Python-based Password Manager built using Tkinter GUI, with password generation, clipboard support, and local data storage.
+This project demonstrates how to build a fully functional password manager application using Python. It allows users to generate strong passwords, store credentials securely, and retrieve them instantly through a clean and intuitive Tkinter-based GUI.
+
+The application emphasizes **error handling, data persistence, and user experience design**.
 
 **Description:**
 
 - This project is a simple but powerful Password Manager application that helps users generate and store secure passwords for different websites.
 - Users can enter a website, email/username, and generate a strong random password. The app can also copy the password to the clipboard and save all details locally in a text file for later use.
 
-**Key Features:**
+**Features**
 
-- Secure random password generator (letters, numbers, symbols)
-- One-click copy password to clipboard using pyperclip
-- Save login credentials to a local file (password.txt)
-- Input validation with error popups using messagebox
-- Confirmation dialog before saving data
-- Auto-clears fields after saving
-- Clean and simple graphical user interface using Tkinter
+**Secure Password Generation**
+- Randomized combination of letters, numbers, and symbols
+- Uses Python’s `random` module and list comprehensions
+- Automatically copies generated passwords to clipboard using `pyperclip`
 
-**Key Concepts Used:**
-- Tkinter GUI development (Label, Entry, Button, Canvas)
-- Event handling with button commands
-- Functions and modular code structure
-- Random module for password generation
-- List comprehensions for building password components
-- File handling (open, append mode)
-- Exception-free user validation logic
-- Clipboard automation using pyperclip
-- Dialog boxes using tkinter.messagebox
+**Persistent Data Storage (JSON)**
+- Stores credentials in a structured `password.json` file
+- Supports creating new files if none exist
+- Merges new entries with existing data safely
+
+**Search Functionality**
+- Quickly retrieves saved credentials by website name
+- Displays email and password in a popup window
+- Handles missing entries gracefully
+
+**Error Handling**
+- Handles:
+  - FileNotFoundError (missing JSON file)
+  - JSONDecodeError (empty/corrupted file)
+  - KeyError (missing website data)
+- Prevents crashes and improves user experience
+
+**Input Validation & UX**
+- Prevents saving empty fields
+- Automatically clears input fields after saving
+- Standardized website formatting for consistent lookup
+
+**GUI (Tkinter)**
+- Built using Tkinter widgets (Label, Entry, Button, Canvas)
+- Clean grid-based layout
+- Includes logo and styled interface
+
+---
+
+**Concepts Used**
+
+- Tkinter GUI development
+- Event-driven programming
+- Functions and modular code design
+- Exception handling (`try`, `except`, `else`, `finally`)
+- JSON file handling
+- Python dictionaries
+- List comprehensions
+- Clipboard automation (`pyperclip`)
+- Random password generation
+
+---
+
+**How It Works**
+
+1. Enter website, email/username
+2. Generate a secure password (optional)
+3. Click **Add** to save credentials:
+   - Data is validated
+   - Stored in `password.json`
+4. Click **Search** to retrieve saved credentials
 
 **Files Included and Preview:**
 
@@ -179,7 +219,7 @@ A Python-based Password Manager built using Tkinter GUI, with password generatio
 
 **Password Manager Preview:**
 
-![PasswordManager](PasswordManager.png) 
+![PasswordManager](PasswordManagerEnhanced.png) 
 
 
 ---
